@@ -1,4 +1,4 @@
-import{j as e}from"./index-qtsJ8Jwt.js";function i({value:r=0,onRate:n,size:a="text-xl"}){return e.jsx("div",{className:"flex gap-1",children:[1,2,3,4,5].map(t=>{const o=r>=t;return e.jsx("button",{type:"button",onClick:()=>n?.(t),className:`
+import{j as e}from"./index-7DfaYbEJ.js";function i({value:r=0,onRate:n,size:a="text-xl"}){return e.jsx("div",{className:"flex gap-1",children:[1,2,3,4,5].map(t=>{const o=r>=t;return e.jsx("button",{type:"button",onClick:()=>n?.(t),className:`
               ${a}
               w-9 h-9 flex items-center justify-center
               transition-transform duration-200
